@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+    color: #007bff;
+}
+
+.result {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+img {
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
