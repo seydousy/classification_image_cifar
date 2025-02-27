@@ -15,4 +15,25 @@ Ce projet est une application web permettant de classer des images en 10 catégo
 ```bash
 git clone https://github.com/seydousy/classification_image_cifar.git
 cd classification_image_cifar
+```
+---
 
+**2️⃣ Installer les dépendances**
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+
+__3️⃣ Lancer l'application Flask__
+```bash
+python app.py
+```
+
+---
+
+__4️⃣ Ouvrir dans le navigateur__
+
+Accède à l'application via :
+👉 http://127.0.0.1:5000/
